@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187224587325",
+    "project_id": "dradomi-ec7b1",
+    "storage_bucket": "dradomi-ec7b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187224587325:android:61da58c01021a319e43e54",
+        "android_client_info": {
+          "package_name": "com.aztec.proyecto9a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZpkKSBEPnV41FNDNemd5phWEsHXoMTbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
